@@ -33,7 +33,7 @@ C'est un projet d'équipe. Développement d'un clone simplifié de Twitter en No
         npm install -D nodemon        
         npm install mysql2        
         npm install ejs
-        npm install path        
+        npm install dotenv       
         npm install body-parser        
         npm install cookie-parser        
         npm install jsonwebtoken         
