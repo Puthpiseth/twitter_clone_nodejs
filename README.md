@@ -15,13 +15,9 @@ C'est un projet d'équipe. Développement d'un clone simplifié de Twitter en No
 
 ### Instructions d'installation
 
-1. Node setup
-    - Créer un nouveau dossier dans votre machine
-    - Installer node depuis votre terminal
+1. Installation Nodejs
 
             sudo apt install nodejs
-
-    - Ouvrir node dans le terminal et le tester
 
 2. Initialiser un fichier package.json
 
@@ -32,17 +28,12 @@ C'est un projet d'équipe. Développement d'un clone simplifié de Twitter en No
         npm install express        
         npm install -D nodemon        
         npm install mysql2        
-        npm install ejs
         npm install dotenv       
         npm install body-parser        
-        npm install cookie-parser        
+        npm install cookie-parser
+        npm install cors
         npm install jsonwebtoken         
         npm install bcrypt
-        npm install express-session
-        npm install express-flash-message
-        npm install express fileupload
-        npm install local-storage
-        npm install node-localstorage
 
 ### Guide d'utilisation et sécurité
 1. Login et Flash-message
