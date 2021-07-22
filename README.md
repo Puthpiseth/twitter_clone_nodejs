@@ -34,6 +34,12 @@ C'est un projet d'équipe. Développement d'un clone simplifié de Twitter en No
         npm install cors
         npm install jsonwebtoken         
         npm install bcrypt
+        npm install ejs
+        npm install express-session
+        npm install express-flash-message
+        npm install express fileupload
+        npm install local-storage
+        npm install node-localstorage
 
 ### Guide d'utilisation et sécurité
 1. Login et Flash-message
